@@ -69,7 +69,7 @@ Python, Hugging Face Transformers and Datasets, PyTorch, scikit-learn,
 Evaluate
 
 ## How to Run
-Open in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Akshara-0812/distilbert-imdb-sentiment/blob/main/YOUR_NOTEBOOK_NAME.ipynb)
+Open in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Akshara-0812/distilbert-imdb-sentiment/blob/main/distilbert_sentiment.ipynb)
 
 Or locally (a GPU is recommended):
 
